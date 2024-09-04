@@ -1,1 +1,1 @@
-These are answers of the assignments given by Cipher school and solution done by Ayush Kumar.
+These are answers of the assignments given by Cipher school and solution.
